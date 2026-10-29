@@ -99,7 +99,5 @@ name))
 
 (run-all-tests)
 ```
-<p align=center>
-<img src="result.png">
-</p>
+<img src="result.png" width="50%" height="50%">
 
